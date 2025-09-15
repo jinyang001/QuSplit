@@ -1,0 +1,5 @@
+numpy==2.0.2
+matplotlib==3.9.3
+qiskit==1.2.4
+qiskit-aer==0.15.1
+qiskit-algorithms==0.3.1
